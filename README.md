@@ -1,4 +1,4 @@
--  Hi, I’m shalinidhasayyan-currently learning Python,Pandas,Numpy,Matplotlib,Seaborn,MACHINE LEARNING ALGORITHM,unix,abinitio.
+-  Hi, I’m shalinidhasayyan-currently learning Python,Pandas,Numpy,Matplotlib,Seaborn,MACHINE LEARNING ALGORITHM,UNI(SED,AWK,GREP,M_COMMAND),abinitio,INFORMATICA.
 
 
 
